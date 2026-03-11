@@ -1,6 +1,0 @@
-streamlit
-streamlit-folium
-requests
-streamlit-js-eval
-ortools
-geopy
